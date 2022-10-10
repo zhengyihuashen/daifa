@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/niceui/nui-list-video/nui-list-video"],{"0dee":function(n,t,e){"use strict";e.d(t,"b",(function(){return u})),e.d(t,"c",(function(){return r})),e.d(t,"a",(function(){return i}));var i={nuiIcon:function(){return e.e("components/niceui/nui-icon/nui-icon").then(e.bind(null,"7922"))},mpHtml:function(){return Promise.resolve().then(e.bind(null,"df34"))}},u=function(){var n=this,t=n.$createElement;n._self._c},r=[]},2569:function(n,t,e){"use strict";e.r(t);var i=e("0dee"),u=e("32ed");for(var r in u)"default"!==r&&function(n){e.d(t,n,(function(){return u[n]}))}(r);e("8c7f");var c,a=e("f0c5"),o=Object(a["a"])(u["default"],i["b"],i["c"],!1,null,"77ec890d",null,!1,i["a"],c);t["default"]=o.exports},"32ed":function(n,t,e){"use strict";e.r(t);var i=e("3cc1"),u=e.n(i);for(var r in i)"default"!==r&&function(n){e.d(t,n,(function(){return i[n]}))}(r);t["default"]=u.a},"3cc1":function(n,t,e){"use strict";(function(n){Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var e={name:"nui-list-video",data:function(){return{}},props:{indexlist:{type:[Object,Array]}},methods:{itemClick:function(t){var e="/pages/thread/thread?id="+t.threadId;n.navigateTo({url:e})},cateClick:function(t){var e="/pages/list/list?id="+t.categoryId;n.navigateTo({url:e})},userClick:function(t){var e="/pages/user/user?id="+t.userId;n.navigateTo({url:e})}}};t.default=e}).call(this,e("543d")["default"])},"8c7f":function(n,t,e){"use strict";var i=e("ff4f"),u=e.n(i);u.a},ff4f:function(n,t,e){}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/niceui/nui-list-video/nui-list-video-create-component',
+    {
+        'components/niceui/nui-list-video/nui-list-video-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("2569"))
+        })
+    },
+    [['components/niceui/nui-list-video/nui-list-video-create-component']]
+]);

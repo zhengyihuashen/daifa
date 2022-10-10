@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "nui-icon": "/components/niceui/nui-icon/nui-icon"
+  },
+  "component": true
+}

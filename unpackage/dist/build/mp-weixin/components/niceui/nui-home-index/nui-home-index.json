@@ -1,0 +1,12 @@
+{
+  "component": true,
+  "usingComponents": {
+    "nui-navigation-bar": "/components/niceui/nui-navigation-bar/nui-navigation-bar",
+    "nui-headbg": "/components/niceui/nui-headbg/nui-headbg",
+    "nui-list-sticks": "/components/niceui/nui-list-sticks/nui-list-sticks",
+    "nui-users-card": "/components/niceui/nui-users-card/nui-users-card",
+    "nui-list": "/components/niceui/nui-list/nui-list",
+    "nui-nomore": "/components/niceui/nui-nomore/nui-nomore",
+    "mp-html": "/components/mp-html/mp-html"
+  }
+}

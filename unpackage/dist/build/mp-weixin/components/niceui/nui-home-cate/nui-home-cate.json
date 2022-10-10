@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "nui-navigation-bar": "/components/niceui/nui-navigation-bar/nui-navigation-bar",
+    "mp-html": "/components/mp-html/mp-html"
+  }
+}

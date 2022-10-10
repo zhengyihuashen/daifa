@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": " ",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nui-navigation-bar": "/components/niceui/nui-navigation-bar/nui-navigation-bar",
+    "nui-icon": "/components/niceui/nui-icon/nui-icon",
+    "nui-headbg": "/components/niceui/nui-headbg/nui-headbg",
+    "nui-user-headinfo": "/components/niceui/nui-user-headinfo/nui-user-headinfo",
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",
+    "nui-list": "/components/niceui/nui-list/nui-list",
+    "nui-nomore": "/components/niceui/nui-nomore/nui-nomore",
+    "mp-html": "/components/mp-html/mp-html"
+  }
+}

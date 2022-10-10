@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/user/user",
+    "pages/webview/webview",
+    "pages/thread/thread",
+    "pages/list/list",
+    "pages/user/userxy",
+    "pages/user/userys",
+    "pages/find/find",
+    "pages/media/media",
+    "pages/media/video",
+    "pages/media/audio",
+    "pages/media/image",
+    "pages/media/file",
+    "pages/thread/reply",
+    "pages/list/lists",
+    "pages/topic/topic"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#2f54eb",
+    "backgroundColor": "#2f54eb"
+  },
+  "unipush": {
+    "enable": false
+  },
+  "lazyCodeLoading": "requiredComponents"
+  "usingComponents": {}
+}

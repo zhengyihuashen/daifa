@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "nui-navigation-bar": "/components/niceui/nui-navigation-bar/nui-navigation-bar",
+    "nui-list": "/components/niceui/nui-list/nui-list",
+    "nui-nomore": "/components/niceui/nui-nomore/nui-nomore",
+    "mp-html": "/components/mp-html/mp-html"
+  }
+}
