@@ -89,8 +89,8 @@
 					</view>
 
 					<view class="post-note">
-						<text style="font-weight: 800;">声明：</text>
-						本站所有内容来自网友投稿发布。如若本站内容侵犯了原著者的合法权益，可联系{{wechat}}进行处理。
+						<text style="font-weight: 800;">代发：</text>
+						免费代发请联系微信{{wechat}}或公众号取悦数码。
 					</view>
 				</view>
 

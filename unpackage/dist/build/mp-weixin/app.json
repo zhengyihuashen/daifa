@@ -28,6 +28,6 @@
   "unipush": {
     "enable": false
   },
-  "lazyCodeLoading": "requiredComponents"
+  "lazyCodeLoading": "requiredComponents",
   "usingComponents": {}
 }

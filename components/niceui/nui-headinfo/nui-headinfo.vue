@@ -37,10 +37,7 @@
 			</view>
 		</view>
 
-		<!-- <view class="user__join-btn">
-			<nui-icon name="search" color="#ffffff" :bold="true" size="16"></nui-icon>
-			<text style="margin-left: 5px;">搜索一下你感兴趣的内容</text>
-		</view> -->
+		
 	</view>
 </template>
 

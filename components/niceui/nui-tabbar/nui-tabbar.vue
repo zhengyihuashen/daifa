@@ -10,17 +10,8 @@
 			<view class="fs-20">频道</view>
 		</view>
 
-		<view class="action add-action" @tap="tabTap(2)">
-			<text class=" nui-icon-plus  shadow" :class="TabID == 2?'bg-base':'bg-white'"></text>
-
-		</view>
-
-		<view class="action" :class="TabID == 3?'text-base':'text-black'" @tap="tabTap(3)">
-			<text :class="TabID == 3?'nui-icon-award':'nui-icon-award'">
-				<!-- 	<view class="nui-tag badge" v-if="MsgDot"></view> -->
-			</text>
-			<view class="fs-20">排行</view>
-		</view>
+		
+		
 		<view class="action" :class="TabID == 4?'text-base':'text-black'" @tap="tabTap(4)">
 			<text :class="TabID == 4?'nui-icon-user':'nui-icon-user'"></text>
 			<view class="fs-20">我的</view>

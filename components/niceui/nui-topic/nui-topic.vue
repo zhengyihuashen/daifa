@@ -2,9 +2,9 @@
 	<view class="container">
 		<view class=" row  users_card">
 			<view class="live-box col-3">
-				<view class="text-black text-l text-bold ml-10">活跃用户</view>
+				<view class="text-black text-l text-bold ml-10">最新发布</view>
 				<view class="cu-tag bg-base round-pill text-center mb-5 text-sm   ">
-					<text>最近登录</text>
+					<text>实时更新</text>
 					<text class="cuIcon-right text-xs"></text>
 				</view>
 				<!--赚钱滚动信息-->

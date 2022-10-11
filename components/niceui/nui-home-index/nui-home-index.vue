@@ -1,7 +1,7 @@
 <template>
 	<view class="container">
 		<!-- 导航 -->
-		<nui-navigation-bar @init="initNavigation" @change="opacityChange" :scrollTop="scrollTop" title="首页"
+		<nui-navigation-bar @init="initNavigation" @change="opacityChange" :scrollTop="scrollTop" title="代发"
 			background="var(--base)" />
 		<!-- 背景图 -->
 		<nui-headbg></nui-headbg>

@@ -245,7 +245,7 @@
 
 			itemClick(data) {
 				// 跳转到内部窗口并且传递链接
-				var url = `/pages/thread/thread?id=` + data.threadId;
+				var url = `/pages/thread/thread?id=1` + data.threadId;
 				uni.navigateTo({
 					url: url
 				});

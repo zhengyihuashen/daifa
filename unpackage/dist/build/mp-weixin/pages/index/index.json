@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "首页",
+  "navigationBarTitleText": "代发",
   "navigationStyle": "custom",
   "usingComponents": {
     "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",

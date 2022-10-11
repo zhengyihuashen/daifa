@@ -5,7 +5,7 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "首页",
+				"navigationBarTitleText": "代发",
 				"navigationStyle": "custom"
 			},
 			"meta": {
@@ -140,7 +140,7 @@
 		{
 			"path": "pages/list/lists",
 			"style": {
-				"navigationBarTitleText": "频道",
+				"navigationBarTitleText": "代发",
 				"enablePullDownRefresh": false
 			}
 

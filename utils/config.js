@@ -1,8 +1,8 @@
 const Domain = "service-pl4f5xfs-1303021228.gz.apigw.tencentcs.com/";//网站域名
 const WebsiteName = "代发"; //网站名称
 const Wechat = "quyueid";//帖子页 联系方式
-const Notice = "/pages/thread/thread?id=48991";//我的页面 官方公告 比如https://discuz.chat/thread/48991的id就是48994
-const About = "/pages/user/user?id=27652";//我的页面 关于我们
+const Notice = "/pages/thread/thread?id=1";//我的页面 官方公告 比如https://discuz.chat/thread/48991的id就是48994
+const About = "/pages/user/user?id=1";//我的页面 关于我们
 const Update = "/pages/list/list?id=6&name=官方动态";//我的页面 更新日志id
 
 const Chaad = "adunit-bb0c7ed29c490a71";// 插屏广告id 不用写
@@ -33,25 +33,25 @@ const _home_data = {
 			id: 1,
 			name: '推广',
 			bgcolor: 'orange',
-			path: '/pages/media/image',
+			path: '/pages/list/list?id=1&name=推广',
 			img: '/static/photo.png',
 		}, {
 			id: 2,
 			name: '圈钱',
 			color: 'orange',
-			path: '/pages/media/video',
+			path: '/pages/list/list?id=2&name=圈钱',
 			img: '/static/video.png',
 		}, {
 			id: 3,
 			name: '避雷',
 			color: '',
-			path: '/pages/media/audio',
+			path: '/pages/list/list?id=3&name=避雷',
 			img: '/static/music.png',
 		}, {
 			id: 4,
 			name: '友加',
 			color: '',
-		path: '/pages/media/file',
+		path: '/pages/list/list?id=4&name=友加',
 			img: '/static/files.png',
 		} ,  ];
 	},
@@ -61,7 +61,7 @@ const _home_data = {
  			id: 1,
  			name: '冻结期id',
  			color: '',
- 			path: '/pages/media/file',
+ 			path: '/pages/list/list?id=5&name=冻结期id',
  			img: '/static/music.png',
  		}, {
  			id: 2,

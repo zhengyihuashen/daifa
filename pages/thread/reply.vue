@@ -88,7 +88,7 @@
 			//console.log(this.data)
 			this.webSiteName = config.WebsiteName;
 			return {
-				title: this.title + '——来自' + this.webSiteName + '的' + this.categoryName + '分类',
+				title: this.title + '代发',
 
 			}
 
@@ -99,7 +99,7 @@
 			this.webSiteName = config.WebsiteName;
 
 			return {
-				title: this.title + '——' + this.categoryName + '分类',
+				title: this.title + '代发',
 				query: 'id=' + this.commentid,
 
 			}

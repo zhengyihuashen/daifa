@@ -17,16 +17,11 @@
 
 
 		<view class="forum_top">
-			<view class="topic">
-				<view class="topic_title "><text class="topic_title_more" @click="topicmore()">更多</text>热议话题</view>
-				<view class="topic_list">
-					<view class="topic_list_item" v-for="(item,index) in topicslist" :key="index"
-						@click="topicClick(item)"><text class="topic_icon">#</text> {{item.content}}
-					</view>
-
-				</view>
-
+			<view class="user__join-btn">
+				<nui-icon name="search" color="#ffffff" :bold="true" size="16"></nui-icon>
+				<text style="margin-left: 1px;">搜索功能还没写/(ㄒoㄒ)/~~</text>
 			</view>
+			
 		</view>
 
 		<view class="forum_cate">

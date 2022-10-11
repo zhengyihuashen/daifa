@@ -50,7 +50,7 @@
 
 				<view class="post-note">
 					<text style="font-weight: 800;">声明：</text>
-					本站所有内容来自DiscuzQ官方论坛，仅作为生成多端程序演示。如若本站内容侵犯了原著者的合法权益，可联系我们进行处理。
+				免费代发请联系微信{{we取悦数码chat}}或公众号。
 				</view>
 			</view>
 

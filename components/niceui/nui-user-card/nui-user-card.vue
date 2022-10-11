@@ -5,7 +5,7 @@
 		<view class=" card  " style="margin-top: 75px;">
 			<view class=" row  users_card">
 				<view class=" col-3">
-					<view class="text-black text-l text-bold ml-10">活跃用户</view>
+					<view class="text-black text-l text-bold ml-10">最新发布</view>
 
 				</view>
 

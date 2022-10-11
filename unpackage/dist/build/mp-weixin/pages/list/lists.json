@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "频道",
+  "navigationBarTitleText": "代发",
   "enablePullDownRefresh": false,
   "usingComponents": {
     "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",

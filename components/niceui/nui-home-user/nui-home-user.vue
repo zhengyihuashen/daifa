@@ -19,37 +19,16 @@
 				<nui-list-view title="更多服务">
 
 
-					<nui-list-cell @click="clickgg" :arrow="true">
-						<view class="nui-item-box">
-							<nui-icon name="bell" :size="24" color="#ff7900"></nui-icon>
-							<text class="nui-list-cell_name">官方公告</text>
-						</view>
-					</nui-list-cell>
-
-					<nui-list-cell @click="clickauthor" :arrow="true">
-						<view class="nui-item-box">
-							<nui-icon name="info-circle" :size="24" color="#5677fc"></nui-icon>
-							<view class="nui-list-cell_name">关于我们</view>
-						</view>
-					</nui-list-cell>
-					<nui-list-cell @click="clickplan" :arrow="true">
-						<view class="nui-item-box">
-							<nui-icon name="building-store" :size="23" color="#ed3f14"></nui-icon>
-							<view class="nui-list-cell_name">更新日志</view>
-							<view class="nui-right">进入查看</view>
-						</view>
-					</nui-list-cell>
-					<!-- #ifndef MP-BAIDU||MP-TOUTIAO-->
-
-
+					
+					
 					<nui-list-cell :arrow="true">
 
 						<view class="nui-item-box ">
 							<nui-icon name="send" :size="24" color="#19be6b"></nui-icon>
-							<view class="nui-list-cell_name">建议反馈</view>
+							<view class="nui-list-cell_name">微信公众号</view>
 							<view class="nui-ml-auto">
 								<nui-tag padding="10rpx 12rpx" margin="0 30rpx 0 0" size="24rpx" type="light-green"
-									shape="circle">欢迎留言</nui-tag>
+									shape="circle">取悦数码</nui-tag>
 							</view>
 
 						</view><button open-type="feedback" class="nui-item-box-btn">
@@ -94,7 +73,7 @@
 					type: "navigate",
 					text: "隐私协议"
 				}],
-				copyright: " Copyright © 2021 Discuz!Q",
+				copyright: " Copyright © 2022 取悦工作室",
 
 
 			};
